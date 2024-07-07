@@ -9,7 +9,7 @@ import banner3 from "../assets/banner3.png"
 const Home = () => {
   return (
     <div className=" bg-neutralSilver" id="home">
-      <div className="px-4 lg:px-14 max-w-screen-2xl mx-auto min-h-screen h-screen flex justify-center items-center">
+      <div className="px-4 lg:px-14 max-w-screen-2xl mx-auto min-h-screen h-screen flex justify-center items-center dark:bg-lightGray"> 
         <Carousel className="w-full mx-auto">
           <div className="my-28 md:my-8 py-12 flex flex-col w-full mx-auto md:flex-row-reverse items-center justify-between gap-12">
           <div>
