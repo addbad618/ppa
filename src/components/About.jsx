@@ -74,7 +74,7 @@ const About = () => {
                 <div>
                   <h4 className="text-2xl text-neutralDGrey font-semibold">
                     {/* 2,245,341 */}
-                    <CountUp end={2245341} duration={10} separator="," />
+                    <CountUp end={2245341} duration={20} separator="," />
                   </h4>
                   <p>Members</p>
                 </div>
@@ -84,7 +84,7 @@ const About = () => {
                 <img src={IoPeople} alt="" className="h-6 w-6 text-primary" />
                 <div>
                   <h4 className="text-2xl text-neutralDGrey font-semibold">
-                    <CountUp end={46328} duration={10} separator="," />
+                    <CountUp end={46328} duration={20} separator="," />
                   </h4>
                   <p>Clubs</p>
                 </div>
@@ -96,7 +96,7 @@ const About = () => {
                 <img src={IoPeople} alt="" className="h-6 w-6 text-primary" />
                 <div>
                   <h4 className="text-2xl text-neutralDGrey font-semibold">
-                    <CountUp end={828867} duration={10} separator="," />
+                    <CountUp end={828867} duration={20} separator="," />
                   </h4>
                   <p>Event Bookings</p>
                 </div>
@@ -106,7 +106,7 @@ const About = () => {
                 <img src={IoPeople} alt="" className="h-6 w-6 text-primary" />
                 <div>
                   <h4 className="text-2xl text-neutralDGrey font-semibold">
-                    <CountUp end={1926436} duration={10} separator="," />
+                    <CountUp end={1926436} duration={20} separator="," />
                   </h4>
                   <p>Payments</p>
                 </div>
