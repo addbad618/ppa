@@ -7,7 +7,7 @@ import { fadeIn } from "../variants";
 
 const Newsletter = () => {
   return (
-    <div className="px-4 lg:px-14 max-w-screen-2xl mx-auto bg-neutralSilver py-16">
+    <div className="px-4 lg:px-14 max-w-screen-2xl mx-auto bg-neutralSilver py-16 dark:bg-neutralDGrey">
       <motion.div 
     
       variants={fadeIn("up", 0.2)}
